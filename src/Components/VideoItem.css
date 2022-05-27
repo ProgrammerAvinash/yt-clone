@@ -1,0 +1,10 @@
+.videoItem{
+    display: flex;
+    cursor: pointer;
+    
+}
+
+.videoItem.item img{
+   max-width: 200px; 
+   padding-left: 20px;
+}
